@@ -2,7 +2,7 @@
 
 This repository provides a simulation of a conveying-transport system designed for logistics businesses, inspired by systems like those at [SSI Schaefer](https://www.ssi-schaefer.com/en-au/products/conveying-transport).
 
-![conveying](docs/container-and-carton-conveyor-system-dam-image-en-1029-.png)
+![conveying](./docs/container-and-carton-conveyor-system-dam-image-en-1029-.png)
 
 ## Overview
 
